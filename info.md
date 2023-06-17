@@ -24,4 +24,4 @@
 
 **git commit --amend -m “text”** - изменение текста последнего коммита
 
-
+git reset HEAD~ 
